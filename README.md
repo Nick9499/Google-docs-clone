@@ -6,7 +6,7 @@
 <h2>Preview</h3>
 <hr/>
 <br/>
-<img src='https://github.com/Nick9499/Hulu-CLone/blob/main/images/preview.png'>
+<img src='https://github.com/Nick9499/Google-docs-clone/blob/main/public/screen.png'>
 <br/>
 <br/>
 <br/>
